@@ -7,6 +7,6 @@ while i < collection.length
 block_return_values<< yield(collection[i]) 
   i =i+ 1 
 end 
-binding.pry 
+my_all? == true
 end
 

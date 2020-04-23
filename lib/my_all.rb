@@ -7,7 +7,6 @@ while i < collection.length
 block_return_values<< yield(collection[i]) 
   i =i+ 1 
 
-my_all?(collection){[i] i < 3 == false
 end 
 end
 end 

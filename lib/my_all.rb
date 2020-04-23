@@ -5,8 +5,8 @@ block_return_values =[]
   i = 0 
 while i < collection.length 
 block_return_values<< yield(collection[i]) 
-binding.pry
   i =i+ 1 
+binding.pry
 end 
 
 end

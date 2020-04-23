@@ -8,6 +8,6 @@ block_return_values<< yield(collection[i])
   i =i+ 1 
 
 end 
-
+my_all?(collection){[i] i < 3 == false
 end
-
+end 

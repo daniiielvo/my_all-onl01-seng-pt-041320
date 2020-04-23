@@ -9,5 +9,8 @@ block_return_values<< yield(collection[i])
 
 end 
 if block_return_values.all?
+  false 
+else
+  true 
 end
 end 

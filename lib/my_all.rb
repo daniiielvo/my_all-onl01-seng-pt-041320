@@ -9,8 +9,8 @@ block_return_values<< yield(collection[i])
 
 end 
 if block_return_values.incude?
-  true  
+  false 
 else
-  false  
+  true
 end
 end 
